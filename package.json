@@ -29,7 +29,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
-  "author": "Bruno Carvalhal / Shadwell Da Cunha / U",
+  "author": "Bruno Carvalhal / Shadwell Da Cunha / Uğur İLTER",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sdacunha/typegoose-cursor-pagination/issues"
