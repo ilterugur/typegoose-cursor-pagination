@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sdacunha/typegoose-cursor-pagination.git"
+    "url": "git://github.com/ilterugur/typegoose-cursor-pagination.git"
   },
   "keywords": [
     "mongodb",
@@ -32,9 +32,9 @@
   "author": "Bruno Carvalhal / Shadwell Da Cunha / Uğur İLTER",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdacunha/typegoose-cursor-pagination/issues"
+    "url": "https://github.com/ilterugur/typegoose-cursor-pagination/issues"
   },
-  "homepage": "https://github.com/sdacunha/typegoose-cursor-pagination#readme",
+  "homepage": "https://github.com/ilterugur/typegoose-cursor-pagination#readme",
   "dependencies": {
     "@typegoose/typegoose": "^12.2.0",
     "base64-url": "^2.3.3",
