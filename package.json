@@ -1,5 +1,5 @@
 {
-  "name": "@sdacunha/typegoose-cursor-pagination",
+  "name": "@ilterugur/typegoose-cursor-pagination",
   "version": "1.3.6",
   "description": "A mongoose plugin to find results using on cursor-based pagination with support for typegoose",
   "main": "lib/index.js",
@@ -29,17 +29,17 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
-  "author": "Bruno Carvalhal / Shadwell Da Cunha",
+  "author": "Bruno Carvalhal / Shadwell Da Cunha / U",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sdacunha/typegoose-cursor-pagination/issues"
   },
   "homepage": "https://github.com/sdacunha/typegoose-cursor-pagination#readme",
   "dependencies": {
-    "@typegoose/typegoose": "^12.0.0",
+    "@typegoose/typegoose": "^12.2.0",
     "base64-url": "^2.3.3",
-    "bson": "^6.2.0",
-    "mongoose": "^8.0.3",
+    "bson": "^6.4.0",
+    "mongoose": "^8.2.1",
     "ramda": "^0.29.1"
   },
   "devDependencies": {
