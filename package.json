@@ -1,6 +1,6 @@
 {
   "name": "@ilterugur/typegoose-cursor-pagination",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "description": "A mongoose plugin to find results using on cursor-based pagination with support for typegoose",
   "main": "lib/index.js",
   "scripts": {
@@ -25,10 +25,6 @@
     "plugin",
     "typegoose"
   ],
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "Bruno Carvalhal / Shadwell Da Cunha / Uğur İLTER",
   "license": "MIT",
   "bugs": {
